@@ -184,8 +184,6 @@ export default function CarListItem({id, model, make, price, status}) {
   })
 ```
 
-![React Data Workflow](./image/data_communication.png)
-
 3. How does data flow between siblings?
     * hint: Find the shared parent
 
